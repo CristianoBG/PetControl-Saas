@@ -1,0 +1,1 @@
+ALTER TABLE public.perdas ADD COLUMN preco_unitario numeric(10,2) DEFAULT NULL;

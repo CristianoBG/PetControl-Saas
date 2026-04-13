@@ -1,0 +1,1 @@
+ALTER TABLE public.estoque ADD COLUMN preco_unitario numeric(10,2) DEFAULT NULL;

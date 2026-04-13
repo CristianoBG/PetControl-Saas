@@ -1,0 +1,1 @@
+ALTER TABLE public.estoque ADD COLUMN foto_url text DEFAULT NULL;

@@ -1,0 +1,2 @@
+[http]
+disable_verify_jwt = true

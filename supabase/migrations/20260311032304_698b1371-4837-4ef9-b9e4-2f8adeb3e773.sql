@@ -1,0 +1,1 @@
+ALTER TABLE public.vacinas ADD COLUMN avisado boolean NOT NULL DEFAULT false;
